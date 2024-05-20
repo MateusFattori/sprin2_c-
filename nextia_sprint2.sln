@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sprin2_c#", "sprin2_c#.csproj", "{18DA4C04-140A-4E80-A2B1-F4E4E9CDCC11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nextia_sprint2", "nextia_sprint2.csproj", "{18DA4C04-140A-4E80-A2B1-F4E4E9CDCC11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
